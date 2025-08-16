@@ -1,0 +1,11 @@
+review_id,product_id,stars,review_text
+R001,P001,5,Fantastic phone with great battery life and camera quality.
+R002,P001,3,Good performance but the screen feels small for me.
+R003,P002,4,Excellent cameras and display; a bit pricey.
+R004,P003,5,Super light and fast. Perfect for travel and coding.
+R005,P004,2,Noise cancelling is average and the headband hurts after long use.
+R006,P008,4,Comfortable fit and strong bass; call quality is fine.
+R007,P007,5,Beast for productivity. Compiles projects in seconds.
+R008,P005,4,Sharp photos and great stabilization.
+R009,P006,5,Load times are insanely fast. Ray tracing looks amazing.
+R010,P010,3,"Health features are nice, battery lasts a day only."

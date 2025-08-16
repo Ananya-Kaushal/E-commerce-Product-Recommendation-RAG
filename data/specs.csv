@@ -1,0 +1,21 @@
+product_id,spec_key,spec_value
+P001,display,6.1-inch OLED
+P001,chip,A13
+P001,camera,12MP dual
+P002,display,6.7-inch OLED
+P002,chip,A13
+P002,camera,12MP triple
+P003,ram,16GB
+P003,storage,512GB SSD
+P003,weight,1.1kg
+P004,battery,30h
+P004,anc,Hybrid ANC
+P007,cpu,Intel i7
+P007,ram,32GB
+P007,storage,1TB SSD
+P008,anc,Yes
+P008,charging,Wireless
+P006,ssd,Fast NVMe
+P006,graphics,Ray tracing
+P010,gps,Yes
+P010,ecg,Yes

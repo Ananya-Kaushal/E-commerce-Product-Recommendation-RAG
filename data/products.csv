@@ -1,0 +1,11 @@
+product_id,title,category,price,description
+P001,AlphaPhone X,Smartphones,699,6.1-inch OLED display with A13 chip and dual camera system
+P002,AlphaPhone X Pro,Smartphones,999,6.7-inch OLED display with A13 chip and triple camera system
+P003,ZenBook Air 13,Laptops,1099,13-inch ultrabook with 16GB RAM and 512GB SSD
+P004,SoundMax 500,Headphones,199,Over-ear noise-cancelling headphones with 30h battery life
+P005,PixelCam 12,Camera,799,Mirrorless camera with 24MP sensor and 4K video
+P006,GameBox S,Consoles,499,Next-gen console with ray tracing and fast SSD
+P007,WorkMate Pro,Laptops,1299,"15-inch laptop with i7, 32GB RAM and 1TB SSD"
+P008,BassBuds Air,Headphones,149,True wireless earbuds with ANC and wireless charging
+P009,SmartHome Hub,Smart Home,129,"Hub controlling lights, thermostats, and sensors with voice support"
+P010,AlphaWatch 5,Wearables,349,"Fitness smartwatch with GPS, ECG, and SpO2 tracking"
